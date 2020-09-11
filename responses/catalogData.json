@@ -16,7 +16,12 @@
   },
   {
     "id_product": 778,
-    "product_name": "Жесткий диск",
+    "product_name": "Монитор",
     "price": 5000
+  },
+  {
+    "id_product": 335,
+    "product_name": "Пиво",
+    "price": 100000
   }
 ]
