@@ -1,12 +1,28 @@
+  
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "productId": 123,
+    "productTitle": "Ноутбук",
+    "productPrice": 45600
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
+    "productId": 456,
+    "productTitle": "Мышка",
+    "productPrice": 1000
+  },
+  {
+    "productId": 789,
+    "productTitle": "Клавиатура",
+    "productPrice": 1200
+  },
+  {
+    "productId": 147,
+    "productTitle": "Монитор",
+    "productPrice": 12500
+  },
+  {
+    "productId": 258,
+    "productTitle": "Пиво",
+    "productPrice": 150
   }
 ]
